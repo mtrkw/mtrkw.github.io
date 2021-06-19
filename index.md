@@ -35,6 +35,7 @@ MSP事業会社で多種多様なWEBサービスの設計、構築、運用、�
 
 ## 資格（失効含）
 
+- Microsoft Certified: Azure Fundamentals
 - AWS Certified Solution Architect Professional
 - AWS Certified DevOps Engineer Professional
 - AWS Certified Solutions Architect Associate
