@@ -6,7 +6,7 @@ MSP事業会社で多種多様なWEBサービスの設計、構築、運用、�
 
 - E-mail: trkw.masahiro.biz@gmail.com
 - Github: [https://github.com/mtrkw](https://github.com/mtrkw)
-- Linkedin: [https://linkedin.com/in/masahiro-tarukawa-8487651b4](https://linkedin.com/in/masahiro-tarukawa-8487651b4)
+- Linkedin: [https://linkedin.com/in/mtrkw](https://linkedin.com/in/mtrkw)
 - Twitter: [https://twitter.com/mtrkw17](https://twitter.com/mtrkw17)
 - Facebook: [https://facebook.com/mtarukawa](https://facebook.com/mtarukawa)
 - Blog: 
