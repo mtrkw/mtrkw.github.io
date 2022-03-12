@@ -33,7 +33,7 @@ MSP事業会社で多種多様なWEBサービスの設計、構築、運用、�
 - Linux
 - Kubernetes
 
-## 資格（失効含）
+## 資格
 
 - Certified Kubernetes Application Developer
 - Certified Kubernetes Administrator
@@ -45,11 +45,10 @@ MSP事業会社で多種多様なWEBサービスの設計、構築、運用、�
 - AWS Certified Solutions Architect Associate
 - AWS Certified Developer Associate
 - AWS Certified SysOps Administrator Associate
-- LPI-Japan LinuC Level 3 300
-- LPI-Japan LinuC Level 2
-- LPI-Japan LinuC Level 1
+- LPI LPIC-3: 300 (Mixed Environment)
+- LPI LPIC-2
+- LPI LPIC-1
 - EXIN ITIL® Foundation Certificate in IT Service Management
-- Cisco CCNA Routing and Switching
 
 ## 刊行物
 
