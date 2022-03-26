@@ -9,7 +9,7 @@ MSP事業会社で多種多様なWEBサービスの設計、構築、運用、�
 - Linkedin: [https://linkedin.com/in/mtrkw](https://linkedin.com/in/mtrkw)
 - Twitter: [https://twitter.com/mtrkw17](https://twitter.com/mtrkw17)
 - Facebook: [https://facebook.com/mtarukawa](https://facebook.com/mtarukawa)
-- Blog: 
+- Blog: [https://sre.tokyo/](https://sre.tokyo/)
 
 ## 所属
 
