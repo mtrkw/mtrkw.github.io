@@ -37,6 +37,7 @@ MSP事業会社で多種多様なWEBサービスの設計、構築、運用、�
 - Certified Kubernetes Application Developer
 - Certified Kubernetes Administrator
 - Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Network Engineer Associate
 - Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Fundamentals
