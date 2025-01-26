@@ -34,19 +34,12 @@ MSP事業会社で多種多様なWEBサービスの設計、構築、運用、�
 
 ## 資格
 
-- Certified Kubernetes Application Developer
-- Certified Kubernetes Administrator
 - Microsoft Certified: Azure AI Fundamentals 
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Network Engineer Associate
 - Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Fundamentals
-- AWS Certified Solution Architect Professional
-- AWS Certified DevOps Engineer Professional
-- AWS Certified Solutions Architect Associate
-- AWS Certified Developer Associate
-- AWS Certified SysOps Administrator Associate
 - LPI LPIC-3: 304 (Virtualization and High Availability)
 - LPI LPIC-3: 300 (Mixed Environment)
 - LPI LPIC-2
